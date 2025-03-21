@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea306914.css",
-    "main.js": "/static/js/main.c38f1850.js",
-    "static/js/453.ec3e3c14.chunk.js": "/static/js/453.ec3e3c14.chunk.js",
-    "index.html": "/index.html",
-    "main.ea306914.css.map": "/static/css/main.ea306914.css.map",
-    "main.c38f1850.js.map": "/static/js/main.c38f1850.js.map",
-    "453.ec3e3c14.chunk.js.map": "/static/js/453.ec3e3c14.chunk.js.map"
+    "main.css": "/tyt-ayt-sorubankasi/static/css/main.ea306914.css",
+    "main.js": "/tyt-ayt-sorubankasi/static/js/main.9693d54d.js",
+    "static/js/453.ec3e3c14.chunk.js": "/tyt-ayt-sorubankasi/static/js/453.ec3e3c14.chunk.js",
+    "index.html": "/tyt-ayt-sorubankasi/index.html",
+    "main.ea306914.css.map": "/tyt-ayt-sorubankasi/static/css/main.ea306914.css.map",
+    "main.9693d54d.js.map": "/tyt-ayt-sorubankasi/static/js/main.9693d54d.js.map",
+    "453.ec3e3c14.chunk.js.map": "/tyt-ayt-sorubankasi/static/js/453.ec3e3c14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea306914.css",
-    "static/js/main.c38f1850.js"
+    "static/js/main.9693d54d.js"
   ]
 }
